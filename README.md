@@ -1,5 +1,5 @@
 # Email sender GUI App
-It is an email sender. This GUI can send bulk number of files (Max. Size 35Mb).The program can send via SMTP server.
+It is an email sender. This GUI can send text and bulk number of files (Max. Size 35Mb).The program can send via SMTP server.
 # How it works
 1. Before sending mail, you have to save email and password and port number as a environment variable
 2. After this, choose from which email you want to send 
