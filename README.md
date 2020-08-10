@@ -7,17 +7,13 @@ It is an email sender. This GUI can send bulk number of files (Max. Size 35Mb).T
 3. Enter Subject and Message ,and you can also add files
 4. click on "send_mail" button
 # How to add email ,password and port number
-Example:-
-For Gmail
+Example for Gmail
 EMAIL_ID_A='your@gmail.com,your password,smtp.gmail.com,465'
+Similarly for EMAIL_ID_B,EMAIL_ID_C
+You can add atmost 3 email
+
+Language:-python
+Library:-SMTP, OS, time
+Framework:-Tkinter
 
 
-
-
-
-This is a email sender gui ,the work is simply to send an email without using gmail website or from an app.we can send text as well as file upto 35mb
-Here i have used python language, library used here is smtp ,tkinter,time etc.. 
-New features are:
-1.we can send from diffrent email ,you just have to set environment variable
-2.File can be deleted as well as added 
-3.Diffrent pop-up messages
