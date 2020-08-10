@@ -11,7 +11,9 @@ Example for gmail
 
 
 EMAIL_ID_A='your@gmail.com,your password,smtp.gmail.com,465'
+
 Similarly for EMAIL_ID_B,EMAIL_ID_C
+
 You can add atmost 3 email
 
 Language:-python
