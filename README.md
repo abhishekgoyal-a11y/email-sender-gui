@@ -4,7 +4,7 @@ It is an email sender. This GUI can send bulk number of files (Max. Size 35Mb).T
 1. Before sending mail, you have to save email and password as a environment variable
 2. After this, choose from which email you want to send 
 3. Enter recipient Email
-3. Type Subject and Message ,and you can also add files
+3. Enter Subject and Message ,and you can also add files
 4. click on "send_mail" button
 # How to add email and password
 
