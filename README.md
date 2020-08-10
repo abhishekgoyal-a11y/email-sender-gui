@@ -7,12 +7,15 @@ It is an email sender. This GUI can send text and bulk number of files (Max. Siz
 3. Enter Subject and Message ,and you can also add files
 4. click on "send_mail" button
 # How to set environment variable
-Example for Gmail
+Example for gmail
+
+
 EMAIL_ID_A='your@gmail.com,your password,smtp.gmail.com,465'
 Similarly for EMAIL_ID_B,EMAIL_ID_C
 You can add atmost 3 email
 
 Language:-python
+
 Library:-SMTP, OS, time
 Framework:-Tkinter
 
