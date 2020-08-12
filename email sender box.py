@@ -11,6 +11,7 @@ import os
 import time
 import math
 from functools import partial
+from threading import *
 # Size of Path
 
 def directory_size(path):
@@ -118,6 +119,12 @@ def sendmailcontent(FROM, PASSWORD, SMTP_NUM, PORT_NUMBER):
         time.sleep(2)
         status_text.set("")
 total_file_size=0
+
+def sendmail_threading():
+    print("start")
+    t1=Thread(target=sendmail)
+    t1.start()
+    print("stop")
 # sending mail
 def sendmail():
     global total_file_size
@@ -273,7 +280,7 @@ if __name__ == "__main__":
 
     # sendmail button
     send_mail = Button(root, text="Send mail", font=(
-        "Times", "10", "bold"), command=sendmail)
+        "Times", "10", "bold"), command=sendmail_threading)
     send_mail.place(x=260, y=530)
 
     # status
