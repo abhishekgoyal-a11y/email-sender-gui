@@ -26,4 +26,6 @@ Framework:-Tkinter
 ![freesnippingtool com_capture_20200814144015](https://user-images.githubusercontent.com/58354473/90235281-a96c3100-de3e-11ea-942d-95d8c103cf71.png)
 # Alert Pop-up Window
 If subject is empty
-![freesnippingtool com_capture_20200814145624](https://user-images.githubusercontent.com/58354473/90235356-cb65b380-de3e-11ea-8c6d-7757f883f606.png)If Recipient field in empty      ![freesnippingtool com_capture_20200814145601](https://user-images.githubusercontent.com/58354473/90235366-cc96e080-de3e-11ea-91b9-dd4342616e0b.png)
+
+![freesnippingtool com_capture_20200814145624](https://user-images.githubusercontent.com/58354473/90235356-cb65b380-de3e-11ea-8c6d-7757f883f606.png)
+If Recipient field in empty![freesnippingtool com_capture_20200814145601](https://user-images.githubusercontent.com/58354473/90235366-cc96e080-de3e-11ea-91b9-dd4342616e0b.png)
