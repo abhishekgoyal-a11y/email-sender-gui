@@ -32,3 +32,7 @@ If subject is empty
 If Recipient field in empty
 
 ![freesnippingtool com_capture_20200814145601](https://user-images.githubusercontent.com/58354473/90235366-cc96e080-de3e-11ea-91b9-dd4342616e0b.png)
+
+# Future Work
+1.Send multiple emails
+2.Improve the file loading speed
