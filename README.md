@@ -29,5 +29,5 @@ If subject is empty
 
 ![freesnippingtool com_capture_20200814145624](https://user-images.githubusercontent.com/58354473/90235356-cb65b380-de3e-11ea-8c6d-7757f883f606.png)
 
-If Recipient field in empty!
-[freesnippingtool com_capture_20200814145601](https://user-images.githubusercontent.com/58354473/90235366-cc96e080-de3e-11ea-91b9-dd4342616e0b.png)
+If Recipient field in empty
+![freesnippingtool com_capture_20200814145601](https://user-images.githubusercontent.com/58354473/90235366-cc96e080-de3e-11ea-91b9-dd4342616e0b.png)
