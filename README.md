@@ -35,4 +35,5 @@ If Recipient field in empty
 
 # Future Work
 1.Send multiple emails
-2.Improve the file loading speed
+
+2.Improve file uploading speed
